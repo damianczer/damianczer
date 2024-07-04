@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm from Poland<br><br>- ⚡ Extensive frontend experience<br>- 🤔 Interest in DevOps and software delivery process automation<br>- 🥇 Sitecore 10 .NET Developer Certified<br>- 🤓 Fun fact Coding can “power up” your brain<br> - 🌈Every problem can be solved</p>
+<p align="left">I'm from Poland<br><br>- ⚡ Extensive frontend experience<br>- 🤔 Interest in DevOps and software delivery process automation<br>- 🥇 Sitecore 10 .NET Developer Certified<br>- 🤓 Fun fact Coding can “power up” your brain<br> - 🌈 Every problem can be solved</p>
 
 <p align="left">Programming Languages:</p>
 
@@ -162,6 +162,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/KeePass_Logo_%282016%29.svg/256px-KeePass_Logo_%282016%29.svg.png" height="40" alt="keepass logo"  />
   <img width="12" />
   <img src="https://tts.com.pl/userdata/public/gfx/4709/JetBrains2.png" height="40" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" height="40" alt="figma logo"  />
 </div>
 
 ###
