@@ -134,6 +134,8 @@
   <img src="https://authy.com/wp-content/uploads/npm-logo.png" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/js_webpack_logo_icon_167796.png" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://miro.medium.com/v2/resize:fit:500/1*-hkzF9m5828c-UIaSQNUug.jpeg" height="40" alt="sql server management studio logo"  />
 </div>
 
 ###
