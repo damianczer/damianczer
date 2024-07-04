@@ -168,6 +168,8 @@
   <img src="https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw=w240-h480-rw" height="40" alt="adobe xd logo"  />
   <img width="12" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3521296-2944715.png?f=webp&w=256" height="40" alt="adobe xd logo"  />
+  <img width="12" />
+  <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-jaune.png" height="40" alt="github logo"  />
 </div>
 
 ###
