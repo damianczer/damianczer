@@ -46,7 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png?20170919082558" height="40" alt="vue logo"  />
-  <img width="12" />
 </div>
 
 ###
@@ -59,7 +58,6 @@
   <img src="https://clipground.com/images/sitecore-logo-clipart-1.png" height="40" alt="sitecore logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" height="40" alt="wordpress logo"  />
-  <img width="12" />
 </div>
 
 ###
@@ -76,7 +74,6 @@
   <img src="https://broadwayinfosys.com/blog/wp-content/uploads/2019/03/1_K8-NHsRRBuUpuzphdkZ6MQ.png" height="40" alt=".net core logo"  />
   <img width="12" />
   <img src="https://blog.cdn.cmarix.com/blog/wp-content/uploads/2016/03/Entity-Framework.png" height="40" alt="entity framework logo"  />
-  <img width="12" />
 </div>
 
 ###
@@ -89,9 +86,7 @@
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
 </div>
-
 
 <p align="left">DevOps Tools</p>
 
@@ -101,7 +96,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
 </div>
 
 ###
@@ -114,6 +108,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/1700077?s=280&v=4" height="40" alt="git extension logo"  />
 </div>
 
 ###
