@@ -164,6 +164,8 @@
   <img src="https://tts.com.pl/userdata/public/gfx/4709/JetBrains2.png" height="40" alt="jetbrains logo"  />
   <img width="12" />
   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://getcrackingsoftware.com/wp-content/uploads/2023/03/Adobe-XD-56.1.12-logo.png" height="40" alt="adobe xd logo"  />
 </div>
 
 ###
