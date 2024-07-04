@@ -170,6 +170,8 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3521296-2944715.png?f=webp&w=256" height="40" alt="adobe xd logo"  />
   <img width="12" />
   <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-jaune.png" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://nuget.org/Content/gallery/img/logo-og-600x600.png" height="40" alt="nuget logo"  />
 </div>
 
 ###
