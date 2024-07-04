@@ -160,6 +160,8 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sublime-text-icon.png" height="40" alt="sublime text logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/KeePass_Logo_%282016%29.svg/256px-KeePass_Logo_%282016%29.svg.png" height="40" alt="keepass logo"  />
+  <img width="12" />
+  <img src="https://tts.com.pl/userdata/public/gfx/4709/JetBrains2.png" height="40" alt="jetbrains logo"  />
 </div>
 
 ###
