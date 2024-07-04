@@ -121,7 +121,7 @@
 ###
 
 <div align="left">
-  <img src="https://www.svgrepo.com/show/376337/node-js.svg" height="40" alt="node logo"  />
+  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" height="40" alt="node logo"  />
   <img width="12" />
   <img src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-Logo-2019.png" height="40" alt="visual studio logo"  />
   <img width="12" />
