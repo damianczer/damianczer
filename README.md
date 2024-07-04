@@ -152,6 +152,8 @@
   <img src="https://seeklogo.com/images/P/prettier-logo-D5C5197E37-seeklogo.com.png" height="40" alt="prettier logo"  />
   <img width="12" />
   <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_2a585bd3dc82b031a500716723c2d435/version-lens.png" height="40" alt="version lens logo"  />
+  <img width="12" />
+  <img src="https://dhalgara.com/content/images/2018/04/256x256-TDS.png" height="40" alt="team development for sitecore logo"  />
 </div>
 
 ###
