@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm ... from Poland<br><br>- 🔭 Ask me about React, Vue and JS<br>- 📚 I'm currently learning .NET<br>- ⚡ Fun fact Coding can “power up” your brain</p>
+<p align="left">I'm ... from Poland<br><br>- 🔭 Ask me about React, Vue, JS and .NET<br>- 📚 I'm currently learning .NET<br>- ⚡ Fun fact Coding can “power up” your brain</p>
 
 ###
 
@@ -30,6 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/csharp.svg" height="40" alt="typescript logo"  />
   <img width="12" />
 </div>
 
