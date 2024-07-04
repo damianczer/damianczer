@@ -14,7 +14,7 @@
 
 <p align="left">Programming Languages</p>
 
-### //upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/csharp.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="40" alt="typescript logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="40" alt="powershell logo"  />
   <img width="12" />
 </div>
 
@@ -31,12 +31,14 @@
 
 <p align="left">Frameworks and Libraries</p>
 
-###
+### 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png?20170919082558" height="40" alt="vue logo"  />
   <img width="12" />
 </div>
 
