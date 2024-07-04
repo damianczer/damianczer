@@ -21,16 +21,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.prod.website-files.com/6047a9e35e5dc54ac86ddd90/63065002cd563e1cd1cead28_eaadfe64.png" height="42" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="40" alt="powershell logo"  />
-  <img width="12" />
   <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" height="40" alt="html logo"  />
   <img width="12" />
+  <img src="https://cdn.prod.website-files.com/6047a9e35e5dc54ac86ddd90/63065002cd563e1cd1cead28_eaadfe64.png" height="42" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="45" alt="powershell logo"  />
 </div>
 
 ###
