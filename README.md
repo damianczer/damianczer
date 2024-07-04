@@ -54,7 +54,7 @@
 ###
 
 <div align="left">
-  <img src="https://w7.pngwing.com/pngs/967/818/png-transparent-computer-icons-sitecore-logo-sap-icon-text-trademark-logo.png" height="40" alt="sitecore logo"  />
+  <img src="https://clipground.com/images/sitecore-logo-clipart-1.png" height="40" alt="sitecore logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" height="40" alt="wordpress logo"  />
   <img width="12" />
