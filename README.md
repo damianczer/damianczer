@@ -14,7 +14,7 @@
 
 <p align="left">Programming Languages</p>
 
-###
+### //upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -22,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/csharp.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="40" alt="typescript logo"  />
   <img width="12" />
 </div>
 
