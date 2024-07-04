@@ -146,6 +146,8 @@
   <img src="https://tech-wiki.net/images/a/a8/Notepad%2B%2B_logo.png" height="40" alt="notepad++ logo"  />
   <img width="12" />
   <img src="https://www.stephenwagner.com/wp-content/uploads/2019/05/IIS-Logo-1-150x150.png" height="40" alt="IIS logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" height="40" alt="xampp logo"  />
 </div>
 
 ###
