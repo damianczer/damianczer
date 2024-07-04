@@ -123,7 +123,7 @@
 <div align="left">
   <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" height="40" alt="node logo"  />
   <img width="12" />
-  <img src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-Logo-2019.png" height="40" alt="visual studio logo"  />
+  <img src="https://static.wikia.nocookie.net/logopedia/images/e/ec/Microsoft_Visual_Studio_2022.svg/revision/latest/scale-to-width-down/200?cb=20211027141551" height="40" alt="visual studio logo"  />
   <img width="12" />
   <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png" height="40" alt="visual studio code logo"  />
   <img width="12" />
