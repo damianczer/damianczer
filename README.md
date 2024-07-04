@@ -150,6 +150,8 @@
   <img src="https://www.fosshub.com/media/img/project/icons/5b8587c9f9ee5a5c3e979f63.png" height="40" alt="kdiff logo"  />
   <img width="12" />
   <img src="https://seeklogo.com/images/P/prettier-logo-D5C5197E37-seeklogo.com.png" height="40" alt="prettier logo"  />
+  <img width="12" />
+  <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_2a585bd3dc82b031a500716723c2d435/version-lens.png" height="40" alt="version lens logo"  />
 </div>
 
 ###
