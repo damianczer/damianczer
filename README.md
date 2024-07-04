@@ -138,6 +138,8 @@
   <img src="https://miro.medium.com/v2/resize:fit:500/1*-hkzF9m5828c-UIaSQNUug.jpeg" height="40" alt="sql server management studio logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/icon-dotpeek.svg" height="40" alt="dot peek logo"  />
+  <img width="12" />
+  <img src="https://4.bp.blogspot.com/-KgEG3eeOevs/W40-lKvIGrI/AAAAAAAAAQ8/t6zxCGfxKZUo0N-KlUblzlTvIe7KxPvaACLcBGAs/s1600/mozhi-commandprompt1.png" height="40" alt="command line logo"  />
 </div>
 
 ###
