@@ -29,6 +29,8 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" height="40" alt="css logo"  />
   <img width="12" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" height="40" alt="html logo"  />
+  <img width="12" />
 </div>
 
 ###
