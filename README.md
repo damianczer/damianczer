@@ -128,6 +128,8 @@
   <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png" height="40" alt="visual studio code logo"  />
   <img width="12" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/yarn-package-manager-icon.png" height="40" alt="yarn logo"  />
 </div>
 
 ###
