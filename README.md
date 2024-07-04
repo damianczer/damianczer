@@ -62,7 +62,7 @@
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" height="40" alt=".net logo"  />
   <img width="12" />
-  <img src="https://designlimbo.com/wp-content/uploads/2015/08/entity_image.png" height="40" alt="entity framework logo"  />
+  <img src="https://blog.cdn.cmarix.com/blog/wp-content/uploads/2016/03/Entity-Framework.png" height="40" alt="entity framework logo"  />
   <img width="12" />
 </div>
 
