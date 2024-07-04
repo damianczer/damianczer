@@ -139,9 +139,11 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/icon-dotpeek.svg" height="40" alt="dot peek logo"  />
   <img width="12" />
-  <img src="https://4.bp.blogspot.com/-KgEG3eeOevs/W40-lKvIGrI/AAAAAAAAAQ8/t6zxCGfxKZUo0N-KlUblzlTvIe7KxPvaACLcBGAs/s1600/mozhi-commandprompt1.png" height="40" alt="command line logo"  />
+  <img src="https://png.pngtree.com/png-vector/20221229/ourmid/pngtree-command-line-png-image_6542283.png" height="40" alt="command line logo"  />
   <img width="12" />
   <img src="https://tech-wiki.net/images/a/a8/Notepad%2B%2B_logo.png" height="40" alt="notepad++ logo"  />
+  <img width="12" />
+  <img src="https://www.stephenwagner.com/wp-content/uploads/2019/05/IIS-Logo-1-150x150.png" height="40" alt="IIS logo"  />
 </div>
 
 ###
