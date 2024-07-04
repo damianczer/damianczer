@@ -166,6 +166,8 @@
   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw=w240-h480-rw" height="40" alt="adobe xd logo"  />
+  <img width="12" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3521296-2944715.png?f=webp&w=256" height="40" alt="adobe xd logo"  />
 </div>
 
 ###
