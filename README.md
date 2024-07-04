@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="45" alt="powershell logo"  />
   <img width="12" />
-  <img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png" height="38" alt="python logo"  />
+  <img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png" height="42" alt="python logo"  />
 </div>
 
 ###
