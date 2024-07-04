@@ -27,6 +27,8 @@
   <img width="12" />
   <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" height="40" alt="sass logo"  />
   <img width="12" />
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/css3-logo.png" height="40" alt="css logo"  />
+  <img width="12" />
 </div>
 
 ###
