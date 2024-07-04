@@ -67,6 +67,8 @@
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" height="40" alt=".net logo"  />
   <img width="12" />
+  <img src="https://cdn.neowin.com/news/images/uploaded/2023/05/1683726858_microsoft_net_logo_story.jpg" height="40" alt=".net framework logo"  />
+  <img width="12" />
   <img src="https://blog.cdn.cmarix.com/blog/wp-content/uploads/2016/03/Entity-Framework.png" height="40" alt="entity framework logo"  />
   <img width="12" />
 </div>
