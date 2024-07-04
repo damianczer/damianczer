@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm ... from Poland<br><br>- 🔭 Extensive frontend experience<br>- 📚 Interest in DevOps and software delivery process automation<br>- ⚡ Fun fact Coding can “power up” your brain</p>
+<p align="left">I'm ... from Poland<br><br>- ⚡ Extensive frontend experience<br>- 🤔 Interest in DevOps and software delivery process automation<br>- 🤓 Fun fact Coding can “power up” your brain<br>- 🥇 Sitecore 10 .NET Developer Certified</p>
 
 <p align="left">Programming Languages</p>
 
