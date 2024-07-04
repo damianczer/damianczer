@@ -148,6 +148,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" height="40" alt="xampp logo"  />
   <img width="12" />
   <img src="https://www.fosshub.com/media/img/project/icons/5b8587c9f9ee5a5c3e979f63.png" height="40" alt="kdiff logo"  />
+  <img width="12" />
+  <img src="https://seeklogo.com/images/P/prettier-logo-D5C5197E37-seeklogo.com.png" height="40" alt="prettier logo"  />
 </div>
 
 ###
