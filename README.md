@@ -10,17 +10,7 @@
 
 ###
 
-<p align="left">I'm ... from Poland<br><br>- 🔭 Ask me about React, Vue, JS and .NET<br>- 📚 I'm currently learning .NET<br>- ⚡ Fun fact Coding can “power up” your brain</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/daczerw/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+<p align="left">I'm ... from Poland<br><br>- 🔭 Extensive frontend experience<br>- 📚 Interest in DevOps and software delivery process automation<br>- ⚡ Fun fact Coding can “power up” your brain</p>
 
 <p align="left">Programming Languages</p>
 
@@ -45,6 +35,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<p align="left">CMS</p>
+
+###
+
+<div align="left">
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://cdn-assets-us.frontify.com/s3/frontify-enterprise-files-us/eyJwYXRoIjoic2l0ZWNvcmVcL2ZpbGVcL21WMVo1M3N5RFdjckhORUJWVGY3LnN2ZyJ9:sitecore:uVMIKNIyL2GqRgdu0vCBk3AtQCfTvbV6jTrEOhzD3oo?width={width})" height="40" alt="sitecore logo"  />
   <img width="12" />
 </div>
 
