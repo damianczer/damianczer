@@ -30,6 +30,8 @@
   <img src="https://cdn.prod.website-files.com/6047a9e35e5dc54ac86ddd90/63065002cd563e1cd1cead28_eaadfe64.png" height="42" alt="csharp logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="45" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://jakwybrachosting.pl/assets/images/wordpress.shttps://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.pngvg" height="45" alt="powershell logo"  />
 </div>
 
 ###
