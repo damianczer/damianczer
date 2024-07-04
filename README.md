@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" height="40" alt="sass logo"  />
   <img width="12" />
-  <img src="https://i3.wp.com/banner2.cleanpng.com/20180420/xwe/kisspng-web-development-cascading-style-sheets-css3-comput-css-5ada20be146fc2.8807141415242446700837.jpg?ssl=1" height="40" alt="css logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" height="40" alt="css logo"  />
   <img width="12" />
 </div>
 
