@@ -45,7 +45,7 @@
 ###
 
 <div align="left">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://cdn-assets-us.frontify.com/s3/frontify-enterprise-files-us/eyJwYXRoIjoic2l0ZWNvcmVcL2ZpbGVcL21WMVo1M3N5RFdjckhORUJWVGY3LnN2ZyJ9:sitecore:uVMIKNIyL2GqRgdu0vCBk3AtQCfTvbV6jTrEOhzD3oo?width={width})" height="40" alt="sitecore logo"  />
+  <img src="https://cdn-assets-us.frontify.com/s3/frontify-enterprise-files-us/eyJwYXRoIjoic2l0ZWNvcmVcL2ZpbGVcL21WMVo1M3N5RFdjckhORUJWVGY3LnN2ZyJ9:sitecore:uVMIKNIyL2GqRgdu0vCBk3AtQCfTvbV6jTrEOhzD3oo?width={width}" height="40" alt="sitecore logo"  />
   <img width="12" />
 </div>
 
