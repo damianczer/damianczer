@@ -25,6 +25,8 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="40" alt="powershell logo"  />
   <img width="12" />
+  <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" height="40" alt="sass logo"  />
+  <img width="12" />
 </div>
 
 ###
