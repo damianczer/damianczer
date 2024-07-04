@@ -158,6 +158,8 @@
   <img src="https://martijnquekel.gallerycdn.vsassets.io/extensions/martijnquekel/unicornsync/0.7.0/1525875715810/Microsoft.VisualStudio.Services.Icons.Default" height="40" alt="unicorn logo"  />
   <img width="12" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sublime-text-icon.png" height="40" alt="sublime text logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/KeePass_Logo_%282016%29.svg/256px-KeePass_Logo_%282016%29.svg.png" height="40" alt="keepass logo"  />
 </div>
 
 ###
