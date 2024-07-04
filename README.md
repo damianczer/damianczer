@@ -131,7 +131,9 @@
   <img width="12" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/yarn-package-manager-icon.png" height="40" alt="yarn logo"  />
   <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-npm-3-1175132.png?f=webp" height="40" alt="npm logo"  />
+  <img src="https://authy.com/wp-content/uploads/npm-logo.png" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/js_webpack_logo_icon_167796.png" height="40" alt="webpack logo"  />
 </div>
 
 ###
