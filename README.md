@@ -83,7 +83,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://zetorzeszow.pl/wp-content/uploads/2022/07/microsoft-sql-server-logo.png" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
