@@ -12,7 +12,7 @@
 
 <p align="left">I'm from Poland<br><br>- ⚡ Extensive frontend experience<br>- 🤔 Interest in DevOps and software delivery process automation<br>- 🥇 Sitecore 10 .NET Developer Certified<br>- 🥈 Microsoft Development Certified<br>- 🤓 Fun fact Coding can “power up” your brain<br> - 🌈 Every problem can be solved<br> - 💛 Agile enthusiast</p>
 
-<br><br>
+
 🌍 [www.damianczerwinski.pl](https://www.damianczerwinski.pl/)
 
 
