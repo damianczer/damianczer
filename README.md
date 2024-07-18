@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm from Poland<br><br>- ⚡ Extensive frontend experience<br>- 🤔 Interest in DevOps and software delivery process automation<br>- 🥇 Sitecore 10 .NET Developer Certified<br>- 🥈 Microsoft Development Certified<br>- 🤓 Fun fact Coding can “power up” your brain<br> - 🌈 Every problem can be solved<br> - 💛 Agile enthusiast</p>
+<p align="left">I'm from Poland<br><br>- ⚡ Extensive frontend experience<br>- 🤔 Interest in DevOps and software delivery process automation<br>- 🥇 Sitecore 10 .NET Developer Certified<br>- 🥈 Microsoft Development Certified<br>- 🤓 Fun fact Coding can “power up” your brain<br> - 🌈 Every problem can be solved<br> - 💛 Agile enthusiast<br> - 🧑‍🎓 Engineering Graduate - Developer<br> - 👨‍🎓 Master's Degree Graduate - Project Manager</p>
 
 <p align="left">Programming Languages:</p>
 
