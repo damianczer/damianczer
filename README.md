@@ -30,8 +30,6 @@
   <img src="https://cdn.prod.website-files.com/6047a9e35e5dc54ac86ddd90/63065002cd563e1cd1cead28_eaadfe64.png" height="42" alt="csharp logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="45" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png" height="42" alt="python logo"  />
 </div>
 
 ###
@@ -56,8 +54,6 @@
 
 <div align="left">
   <img src="https://clipground.com/images/sitecore-logo-clipart-1.png" height="40" alt="sitecore logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" height="40" alt="wordpress logo"  />
 </div>
 
 ###
