@@ -207,6 +207,12 @@
   <img src="https://user-images.githubusercontent.com/28068/123712981-02676c80-d839-11eb-919a-96ee0c895e15.png" height="40" alt="github copilot logo"  />
   <img width="12" />
   <img src="https://www.edigitalagency.com.au/wp-content/uploads/chatgpt-logo-white-green-background-png.png" height="40" alt="chat gpt logo"  />
+  <img width="12" />
+  <img src="https://i-ht.pl/wp-content/uploads/2021/04/logo-active-directory.png" height="40" alt="active directory logo"  />
+  <img width="12" />
+  <img src="https://www.saintebegge.com/uploads/1/3/0/5/130562627/editor/1311px-logo-microsoft-office-365-svg_1.png" height="40" alt="office 365 logo"  />
+  <img width="12" />
+  <img src="https://www.citypng.com/public/uploads/small/11663459129zyh6posu9344ykifugfiwiche3xfpuhq55etzrcslq4waedy6ximdbrxgzen9ogx79hoazf1vxadx3k8xsps8tts2oesnuwqm1xf.png" height="40" alt="windows server logo"  />
 </div>
 
 ###
