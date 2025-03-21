@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="center">Fullstack Developer</h5>
+<h5 align="center">Fullstack Developer - React Developer in future 😎</h5>
 
 ###
 
@@ -11,7 +11,12 @@
 ###
 
 <p align="left">
-  I'm from Poland<br><br>
+  I'm from Poland.<br><br>
+  I have gained experience with various technologies, beginning my journey in IT with administration and progressing to development.<br>
+  I have since found my passion as a frontend developer, particularly with React.js, and I see my future in this area.
+  However, I remain open to exploring other technologies as well.<br><br>
+  Having learned about multiple technologies and areas within IT, I have developed a comprehensive understanding of how different components work together.
+  This enables me to effectively choose a primary technology while maintaining an understanding of others.<br><br>
   - ⚡ Extensive frontend experience<br>
   - ❤️ In love with React.js<br>
   - 🤔 Interest in DevOps and software delivery process automation<br>
@@ -94,6 +99,8 @@
   <img src="https://broadwayinfosys.com/blog/wp-content/uploads/2019/03/1_K8-NHsRRBuUpuzphdkZ6MQ.png" height="40" alt=".net core logo"  />
   <img width="12" />
   <img src="https://blog.cdn.cmarix.com/blog/wp-content/uploads/2016/03/Entity-Framework.png" height="40" alt="entity framework logo"  />
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/14852843/147144692-50624d81-cb56-4fc3-ab25-5d712818c1d3.png" height="40" alt="blazor logo"  />
 </div>
 
 ###
@@ -106,6 +113,8 @@
   <img src="https://zetorzeszow.pl/wp-content/uploads/2022/07/microsoft-sql-server-logo.png" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" height="40" alt="firebase logo"  />
 </div>
 
 ###
@@ -151,7 +160,7 @@
   <img width="12" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/yarn-package-manager-icon.png" height="40" alt="yarn logo"  />
   <img width="12" />
-  <img src="https://authy.com/wp-content/uploads/npm-logo.png" height="40" alt="npm logo"  />
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-logo.png" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/js_webpack_logo_icon_167796.png" height="40" alt="webpack logo"  />
   <img width="12" />
@@ -169,7 +178,7 @@
   <img width="12" />
   <img src="https://www.fosshub.com/media/img/project/icons/5b8587c9f9ee5a5c3e979f63.png" height="40" alt="kdiff logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/P/prettier-logo-D5C5197E37-seeklogo.com.png" height="40" alt="prettier logo"  />
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/prettier-logo.png" height="40" alt="prettier logo"  />
   <img width="12" />
   <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_2a585bd3dc82b031a500716723c2d435/version-lens.png" height="40" alt="version lens logo"  />
   <img width="12" />
@@ -192,6 +201,12 @@
   <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-jaune.png" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://nuget.org/Content/gallery/img/logo-og-600x600.png" height="40" alt="nuget logo"  />
+  <img width="12" />
+  <img src="https://handwiki.org/wiki/images/thumb/e/e3/ESLint_logo.svg/640px-ESLint_logo.svg.png" height="40" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/28068/123712981-02676c80-d839-11eb-919a-96ee0c895e15.png" height="40" alt="github copilot logo"  />
+  <img width="12" />
+  <img src="https://www.edigitalagency.com.au/wp-content/uploads/chatgpt-logo-white-green-background-png.png" height="40" alt="chat gpt logo"  />
 </div>
 
 ###
