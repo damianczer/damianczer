@@ -21,7 +21,8 @@
   - ❤️ In love with React.js<br>
   - 🤔 Interest in DevOps and software delivery process automation<br>
   - 🥇 Sitecore 10 .NET Developer Certified<br>
-  - 🥈 Microsoft Development Certified<br>
+  - 🥇 Microsoft Development Certified<br>
+  - 🥇 IPMA Project Management Certified<br>
   - 🤓 Fun fact Coding can “power up” your brain<br>
   - 🌈 Every problem can be solved<br>
   - 💛 Agile enthusiast<br>
