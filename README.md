@@ -10,7 +10,19 @@
 
 ###
 
-<p align="left">I'm from Poland<br><br>- ⚡ Extensive frontend experience<br>- ❤️ In love with React.js<br>- 🤔 Interest in DevOps and software delivery process automation<br>- 🥇 Sitecore 10 .NET Developer Certified<br>- 🥈 Microsoft Development Certified<br>- 🤓 Fun fact Coding can “power up” your brain<br> - 🌈 Every problem can be solved<br> - 💛 Agile enthusiast<br> - 🧑‍🎓 Engineering Graduate - Developer<br> - 👨‍🎓 Master's Degree Graduate - Project Manager</p>
+<p align="left">
+  I'm from Poland<br><br>
+  - ⚡ Extensive frontend experience<br>
+  - ❤️ In love with React.js<br>
+  - 🤔 Interest in DevOps and software delivery process automation<br>
+  - 🥇 Sitecore 10 .NET Developer Certified<br>
+  - 🥈 Microsoft Development Certified<br>
+  - 🤓 Fun fact Coding can “power up” your brain<br>
+  - 🌈 Every problem can be solved<br>
+  - 💛 Agile enthusiast<br>
+  - 🧑‍🎓 Engineering Graduate - Developer<br>
+  - 👨‍🎓 Master's Degree Graduate - Project Manager
+</p>
 
 <p align="left">Programming Languages:</p>
 
@@ -43,7 +55,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/mobx-icon-512x512-h6qs5zuq.png" height="40" alt="mobx logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png?20170919082558" height="40" alt="vue logo"  />
+  <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/material-ui-icon-2048x1626-on580ia9.png" height="40" alt="material ui logo"  />
+  <img width="12" />
+  <img src="https://mudblazor.com/_content/MudBlazor.Docs/images/logo.png" height="40" alt="mud blazor logo"  />
+  <img width="12" />
+  <img src="https://www.marefa.org/w/images/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://iconape.com/wp-content/files/an/351546/png/tailwind-css-logo.png" height="40" alt="tailwind logo"  />
 </div>
 
 ###
@@ -54,6 +76,8 @@
 
 <div align="left">
   <img src="https://clipground.com/images/sitecore-logo-clipart-1.png" height="40" alt="sitecore logo"  />
+  <img width="12" />
+  <img src="https://subpng.com/images/hd/word-press-logo-blue-background-npsh9eqxiazah0dh-npsh9eqxiazah0dh.jpg" height="40" alt="wordpress logo"  />
 </div>
 
 ###
