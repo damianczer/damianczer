@@ -218,11 +218,17 @@
 
  ###
  
-<h2 align="center" style="font-weight: bold;">Visits:</h2>
+ <p align="center" style="font-weight: bold;">Statistics:</p>
+ <p align="center">
+   <img src="https://streak-stats.demolab.com/?user=damianczer&theme=dark" alt="GitHub Streak"/>
+ </p>
+
+<p align="center" style="font-weight: bold;">Visits:</p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/damianczer/count.svg" />
 </p>
 
+<p align="center" style="font-weight: bold;">Support Me:</p>
 <p align="center">
 <a href="https://www.buymeacoffee.com/damianczer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
