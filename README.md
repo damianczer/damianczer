@@ -218,7 +218,7 @@
 
  ###
  
-<h2 align="center" style="font-weight: bold;">Visitor Count:</h2>
+<h2 align="center" style="font-weight: bold;">Visits:</h2>
 <p align="center">
   <img src="https://profile-counter.glitch.me/damianczer/count.svg" />
 </p>
