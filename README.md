@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Damian Czerwiński</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?width=1200&&size=38&center=true&vCenter=true&lines=Hi👋,+I'm+Damian+Czerwiński!;)](https://git.io/typing-svg)
 
-###
+<h1></h1>
 
-<h5 align="center">Fullstack Developer - React Developer in future 😎</h5>
+<h5 align="center">Fullstack Developer - React Developer in the future 😎</h5>
 
 ###
 
