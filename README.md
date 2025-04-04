@@ -222,3 +222,7 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/damianczer/count.svg" />
 </p>
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/damianczer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
