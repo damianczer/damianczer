@@ -216,5 +216,9 @@
   <img src="https://www.citypng.com/public/uploads/small/11663459129zyh6posu9344ykifugfiwiche3xfpuhq55etzrcslq4waedy6ximdbrxgzen9ogx79hoazf1vxadx3k8xsps8tts2oesnuwqm1xf.png" height="40" alt="windows server logo"  />
 </div>
 
-###
-
+ ###
+ 
+<h2 align="center" style="font-weight: bold;">Visitor Count:</h2>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/damianczer/count.svg" />
+</p>
