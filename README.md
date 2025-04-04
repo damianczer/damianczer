@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?width=1200&&size=38&center=true&vCenter=true&lines=Hi👋,+I'm+Damian+Czerwiński!;)](https://git.io/typing-svg)
-
-<h1></h1>
-
-<h5 align="center">Fullstack Developer - React Developer in the future.</h5>
+<h2 align="center">Fullstack Developer - React Developer in the future.</h2>
 
 ###
 
@@ -28,16 +25,44 @@
   - 💛 Agile enthusiast<br>
   - 🧑‍🎓 Engineering Graduate - Developer<br>
   - 👨‍🎓 Master's Degree Graduate - Project Manager
-</p>
+</p> <br>
 
-**<p align="left">Technologies & Tools & Languages & Frameworks Packages & Other:</p>**
+**<p align="center">Technologies & Tools & Languages & Frameworks Packages & Other:</p>**
 
 ###
 
+<div align="center">
+  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,nodejs,typescript,powershell,vue,react,tailwind,bootstrap,wordpress,redux,materialui,firebase,postgresql,mysql,stackoverflow,styledcomponents,selenium,docker,azure,git,github,dotnet,sublime,vscode,visualstudio,angular,babel,cs,codepen,devto,discord,figma,flask,gmail,ai,jquery,linux,npm,yarn,ps,postman,pug,py,raspberrypi,regex,svg,symfony,ubuntu,windows,vuetify,xd)](https://skillicons.dev)
+  
+</div>
+
+<br>
+
+<div align="center">
+   
+![MudBlazor](https://img.shields.io/badge/MudBlazor-1E1E1E?style=flat&logo=blazor&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-1E1E1E?style=flat&logo=blazor&logoColor=white)
+![Sitecore](https://img.shields.io/badge/Sitecore-0076A8?style=flat&logo=sitecore&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+![SQL Server Management Studio](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![IIS](https://img.shields.io/badge/IIS-1D1D1D?style=flat&logo=internet-explorer&logoColor=white)
+![dotPeek](https://img.shields.io/badge/dotPeek-9E3D44?style=flat&logo=jetbrains&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-F9E31A?style=flat&logo=xampp&logoColor=black)
+![KDiff3](https://img.shields.io/badge/KDiff3-1E1E1E?style=flat&logo=kdiff3&logoColor=white)
+![NuGet](https://img.shields.io/badge/NuGet-4E7D3B?style=flat&logo=nuget&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF0000?style=flat&logo=xml&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-0A74FF?style=flat&logo=json&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-00A4EF?style=flat&logo=microsoft-windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0A74FF?style=flat&logo=windows&logoColor=white)
+![Office 365](https://img.shields.io/badge/Office%20365-0078D4?style=flat&logo=microsoft-office&logoColor=white)
+![NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=aspnetcore&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D4?style=flat&logo=windows&logoColor=white)
+
+</div>
 
 
- 
  <p align="center" style="font-weight: bold;">Statistics:</p>
  <p align="center">
    <img src="https://streak-stats.demolab.com/?user=damianczer&theme=dark" alt="GitHub Stats"/>
