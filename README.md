@@ -220,7 +220,8 @@
  
  <p align="center" style="font-weight: bold;">Statistics:</p>
  <p align="center">
-   <img src="https://streak-stats.demolab.com/?user=damianczer&theme=dark" alt="GitHub Streak"/>
+   <img src="https://streak-stats.demolab.com/?user=damianczer&theme=dark" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=damianczer&show_icons=true&theme=dark" alt="GitHub Stats"/>
  </p>
 
 <p align="center" style="font-weight: bold;">Visits:</p>
