@@ -16,7 +16,6 @@
   This enables me to effectively choose a primary technology while maintaining an understanding of others.<br><br>
   - ⚡ Extensive frontend experience<br>
   - ❤️ In love with React.js<br>
-  - 🤔 Interest in DevOps and software delivery process automation<br>
   - 🥇 Sitecore 10 .NET Developer Certified<br>
   - 🥇 Microsoft Development Certified<br>
   - 🥇 IPMA Project Management Certified<br>
