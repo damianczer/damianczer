@@ -10,7 +10,7 @@
 <p align="left">
   I'm from Poland.<br><br>
   I have gained experience with various technologies, beginning my journey in IT with administration and progressing to development.<br>
-  I have since found my passion as a frontend developer, particularly with React.js, and I see my future in this area.
+  I have found my passion as a frontend developer, particularly with React.js, and I see my future in this area.
   However, I remain open to exploring other technologies as well.<br><br>
   Having learned about multiple technologies and areas within IT, I have developed a comprehensive understanding of how different components work together.
   This enables me to effectively choose a primary technology while maintaining an understanding of others.<br><br>
@@ -22,7 +22,7 @@
   - 🤓 Fun fact Coding can “power up” your brain<br>
   - 🌈 Every problem can be solved<br>
   - 💛 Agile enthusiast<br>
-  - 🧑‍🎓 Engineering Graduate - Developer<br>
+  - 🧑‍🎓 Engineering Graduate - Software Developer<br>
   - 👨‍🎓 Master's Degree Graduate - Project Manager
 </p> <br>
 
