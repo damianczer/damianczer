@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?width=1200&&size=38&center=true&vCenter=true&lines=Hi👋,+I'm+Damian+Czerwiński!;)](https://git.io/typing-svg)
-<h2 align="center">Fullstack Developer - (React on the first place)</h2>
+<h2 align="center">Fullstack Developer - (1st React)</h2>
 
 ###
 
