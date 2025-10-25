@@ -24,6 +24,7 @@
   - 💛 Agile enthusiast<br>
   - 📱 Mobile first!<br>
   - 🔍 Accessibility is important<br>
+  - 🕓 Web developer is the future (end-to-end)<br>
   - 🧑‍🎓 Engineering Graduate - Software Developer<br>
   - 👨‍🎓 Master's Degree Graduate - Project Manager
 </p> <br>
