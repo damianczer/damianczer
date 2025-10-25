@@ -22,6 +22,8 @@
   - 🤓 Fun fact Coding can “power up” your brain<br>
   - 🌈 Every problem can be solved<br>
   - 💛 Agile enthusiast<br>
+  - 📱 Mobile first!<br>
+  - 🔍 Accessibility is important<br>
   - 🧑‍🎓 Engineering Graduate - Software Developer<br>
   - 👨‍🎓 Master's Degree Graduate - Project Manager
 </p> <br>
