@@ -66,11 +66,7 @@
  <p align="center">
    <img src="https://streak-stats.demolab.com/?user=damianczer&theme=dark" alt="GitHub Stats"/>
       <img src="https://github-readme-stats.vercel.app/api?username=damianczer&show_icons=true&theme=dark" alt="GitHub Stats"/>
- </p>
-
- <p align="center" style="font-weight: bold;">Languages:</p>
- <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damianczer&layout=compact&theme=dark"/>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damianczer&layout=compact&theme=dark"/>
  </p>
 
 <p align="center" style="font-weight: bold;">Visits:</p>
