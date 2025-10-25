@@ -68,9 +68,14 @@
       <img src="https://github-readme-stats.vercel.app/api?username=damianczer&show_icons=true&theme=dark" alt="GitHub Stats"/>
  </p>
 
+ <p align="center" style="font-weight: bold;">Languages:</p>
+ <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damianczer&layout=compact&theme=dark"/>
+ </p>
+
 <p align="center" style="font-weight: bold;">Visits:</p>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/damianczer/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=damianczer&color=brightgreen&style=for-the-badge&+Profile+Views" />
 </p>
 
 <p align="center" style="font-weight: bold;">Support Me:</p>
