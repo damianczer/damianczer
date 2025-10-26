@@ -26,6 +26,7 @@
   - 🌈 Every problem can be solved<br>
   - 💛 Agile enthusiast<br>
   - 📱 Mobile first!<br>
+  - 🗣️ English B2<br>
   - 🛠️ Code refactor is fun<br>
   - 🔍 Accessibility is important<br>
   - 🕓 Web developer is the future (end-to-end)<br>
