@@ -33,6 +33,16 @@ Below is a list of successfully completed projects that showcase my experience a
 12. **[Vuetify]** - I built the company intranet using **Vue 3** and **vuetify** to speed up work on the site - I'm not a fan of ready-made solutions.
 
 13. **[styled-components]** - I worked daily with **React.js** components styled using **styled-components**. This solution has its pros and cons.
+
+14. **[Webpack]** - I created a project from scratch based on **Webpack**. I worked with various Webpack modules and optimized the project using its capabilities.
+
+15. **[Yarn]** - I have worked with the **Yarn** package manager, which allows for significant optimization and improvement of developers' work. I am familiar with its capabilities and know how to configure it.
+
+16. **[Figma & Adobe Xd]** - I worked with a designer who provided me with designs for forms and components in **Figma** and **Adobe Xd**. I am familiar with both software programs and can use them fluently.
+
+17. **[React.js]** - I have built entire applications and various components in multiple versions of **React.js**. I am familiar with both **class-based** and **functional** component approaches. I know most of the most popular **Hooks** and work very fluently with **JSX**.
+
+18. **[Vue.js]** - I have used the **Vue.js** framework many times. I created components from scratch and developed existing ones. I used templates and combined **Vue.js** with **Razor Views (.cshtml)**.
 ---
 
 ### ⚙️ Backend
