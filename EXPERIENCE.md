@@ -43,6 +43,8 @@ Below is a list of successfully completed projects that showcase my experience a
 17. **[React.js]** - I have built entire applications and various components in multiple versions of **React.js**. I am familiar with both **class-based** and **functional** component approaches. I know most of the most popular **Hooks** and work very fluently with **JSX**.
 
 18. **[Vue.js]** - I have used the **Vue.js** framework many times. I created components from scratch and developed existing ones. I used templates and combined **Vue.js** with **Razor Views (.cshtml)**.
+
+19. **[Saas]** - On a daily basis, I tend to use **Saas** classic **CSS** is not very optimal. I build **style function**s and shared blocks. I create **global variables** so that you can easily manipulate, for example, application colors or leading styles.
 ---
 
 ### ⚙️ Backend
