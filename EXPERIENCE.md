@@ -14,7 +14,7 @@ Below is a list of successfully completed projects that showcase my experience a
 
 3. **[Headless CMS Components]** - I created components for Headless CMS in **React.js**, **Vue.js**, and **Razor (.cshtml)**. Components configurable and editable in Experience & Content Editor. Data was delivered to the component using **REST API**.
 
-4. **[Frontend & Website Performance]** - I worked on improving the performance of the application/website. I improved Google ratings in **Lighthouse** and reduced page and component loading times. I optimized the frontend using **Webpack** (minification, .gzip packaging, memoization, scss refactor).
+4. **[Frontend & Website Performance]** - I worked on improving the performance of the application/website. I improved **Google** ratings in **Lighthouse** and reduced page and component loading times. I optimized the frontend using **Webpack** (minification, .gzip packaging, memoization, scss refactor).
 
 5. **[Redux Components]** - I created and refactored components with global **Redux** state. I converted components from **SPA** to **Web Components**.
 
@@ -27,6 +27,12 @@ Below is a list of successfully completed projects that showcase my experience a
 9. **[AJAX]** - I built components with **CRUD** data operation logic using **AJAX**. I created **synchronous** and **asynchronous** functions to manipulate the application correctly.
 
 10. **[TypeScript]** - I created components and libraries using **TypeScript**. It is my favorite language, which should completely replace **JavaScript**.
+
+11. **[Material-UI]** - I created components, entire forms, and pages using **Material-UI** from **Google**. It's a very cool library of ready-made components, but it has its drawbacks and depends on maintaining the validity of external packages.
+
+12. **[Vuetify]** - I built the company intranet using **Vue 3** and **vuetify** to speed up work on the site - I'm not a fan of ready-made solutions.
+
+13. **[styled-components]** - I worked daily with **React.js** components styled using **styled-components**. This solution has its pros and cons.
 ---
 
 ### ⚙️ Backend
