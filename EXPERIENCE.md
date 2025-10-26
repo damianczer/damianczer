@@ -82,6 +82,14 @@ Below is a list of successfully completed projects that showcase my experience a
 
 11. **[Security Raport]** - I analyzed security reports, e.g., **Qualys**, and implemented solutions to eliminate threats in the application.
 
+12. **[.dll Decompilation & Debuging]** - When the problem was more complicated, I **decompiled libraries** to understand what happened in the **error call stack**, sometimes connecting a **debugger** to view the data. **Dotpeek** often helped me.
+
+13. **[Custom .aspx Implementation]** - I have written mini **.aspx** programs to handle things in connection with **CMS** from the code or script level. Among other things, I wrote a program that publishes content using the **smart** method with the **Sitecore** library.
+
+14. **[Sitecore.CLI & Serizalization]** - I used the **console version** of the software to maintain **CMS items** in the solution. I also created my own **serialization process** in **Azure DevOps** and **Octopus Deployment (PowerShell)**.
+
+15. **[TDS]** - I created projects using **Team Development for Sitecore**. I also managed items using a **GUI** plugin for **Visual Studio**.
+
 
 ---
 
