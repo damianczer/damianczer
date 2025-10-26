@@ -45,6 +45,8 @@ Below is a list of successfully completed projects that showcase my experience a
 18. **[Vue.js]** - I have used the **Vue.js** framework many times. I created components from scratch and developed existing ones. I used templates and combined **Vue.js** with **Razor Views (.cshtml)**.
 
 19. **[Saas]** - On a daily basis, I tend to use **Saas** classic **CSS** is not very optimal. I build **style function**s and shared blocks. I create **global variables** so that you can easily manipulate, for example, application colors or leading styles.
+
+20. **[Frontend Packages (NPM)]** - I upgraded frontend packages to the latest version. Often, the jump was significant and there were **breaking changes**, which led to code refactoring. The biggest challenge is **compatibility**, because many packages are dependent on each other. That's why sometimes upgrading one package requires upgrading another, or sometimes it's not even possible to use the latest version.
 ---
 
 ### ⚙️ Backend
@@ -56,11 +58,34 @@ Below is a list of successfully completed projects that showcase my experience a
 
 ---
 
-### 🛠️ DevOps & Other
+### 🛠️ DevOps & CMS & Other
 
-<!-- Example:
-- **CI/CD Pipelines** – Implemented GitHub Actions for automated testing and deployment
-- **Cloud Infrastructure** – Set up Docker and AWS ECS for scalable deployments
--->
+1. **[Git]** - I have extensive experience with **Git**. I like the GUI version - **Git Extensions**. I have created **branches**, **pull requests**, **resolved conflicts**, and done **cherry picks**.
+   
+2. **[PowerShell]** - I am very familiar with **PowerShell** and use it commercially at least several times a month. I create advanced scripts as well as quick and simple ones. This language is very versatile and its applications are countless.
+
+3. **[Azure DevOps]** - I know a few things about **Azure DevOps**. I had the opportunity to automate some tasks, build **pipelines**, and configure **KANBAN** boards.
+
+4. **[CI/CD]** - I created a proprietary **CI/CD pipeline** that built the entire solution using **MSBuild**, created a **NuGet** package from it, and then deployed it to the client server. An additional feature was a solution that detected changes – instead of building from the **.sln** file, a **git compare** was performed, and **MSBuild** received information about which of the nearly 200 projects to build. This was a very big improvement.
+
+5. **[Sitecore 8.2 > 10.2]** - I worked on migrating **Sitecore** **8.2** to version **10.2**. It was a very large project that took the development team over a year to complete. The changes were so extensive that large amounts of code had to be rewritten in **.NET**.
+
+6. **[IIS Rewrite Rules]** - I worked on the **IIS server** module responsible for page redirections. IIS itself has this feature, but my solution was designed for **CMS**. The Content Editor could configure redirects using **.csv** files. (e.g., we disable the old subpage, but users may then receive a **404** error - we redirect from the old page to the new URL. The customer will not receive an error and will see the appropriate content).
+
+---
+
+### 📢 Project Management
+
+1. **[Release Maintener]** - I was responsible for application **releases**. I fixed **bugs** as they arose. I led technical meetings and planned deployments. I performed manual **deployments** with testing - both **test** and **production**. I handled urgent requests from clients.
+
+2. **[Technical & Business Analysis]** - I held discussions with the client to determine their **requirements**. I conducted **technical analyses** to adapt and propose the final solution. I also estimated the work in **Story Points** or **Mendays**.
+
+3. **[Temporary Project Manager]** - I led internal and external meetings when the team project manager was unavailable. I also gave presentations on features to clients.
+
+4. **[KANBAN Support]** - I took care of the **KANBAN board** — I set **deployment statuses**. I asked less important questions to the client in the comments section. I monitored the progress of tasks in the sprint. I created **Release Notes**.
+
+5. **[Documentation (Technical, Business Logic, User Guides)]** - I created **technical documentation** for features and wrote **business logic**, including **UML diagrams**. I built **User Guides** - instructions for customers on how to use/configure features.
+
+6. **[End-To-End]** - I often worked as a **Web Developer**. This meant that I took care of a given task **from start to finish**. From **gathering requirements** to **implementation** and **deployment** into **production**. Often, the actual work on the code was only **30%** of the job—the rest was the entire process of developing and delivering software on time and with the right quality.
 
 ---
