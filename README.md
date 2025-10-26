@@ -46,6 +46,9 @@
 ![MudBlazor](https://img.shields.io/badge/MudBlazor-1E1E1E?style=flat&logo=blazor&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-1E1E1E?style=flat&logo=blazor&logoColor=white)
 ![Sitecore](https://img.shields.io/badge/Sitecore-0076A8?style=flat&logo=sitecore&logoColor=white)
+![TDS%20for%20Sitecore](https://img.shields.io/badge/TDS%20for%20Sitecore-CC0000?style=flat&logo=visualstudio&logoColor=white)
+![Sitecore%20CLI](https://img.shields.io/badge/Sitecore%20CLI-0076A8?style=flat&logo=commandline&logoColor=white)
+![Sitecore%20Serialization](https://img.shields.io/badge/Sitecore%20Serialization-00AEEF?style=flat&logo=databricks&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 ![SQL Server Management Studio](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![IIS](https://img.shields.io/badge/IIS-1D1D1D?style=flat&logo=internet-explorer&logoColor=white)
@@ -61,6 +64,7 @@
 ![NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=aspnetcore&logoColor=white)
 ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D4?style=flat&logo=windows&logoColor=white)
+
 
 </div>
 
