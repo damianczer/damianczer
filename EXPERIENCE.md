@@ -109,4 +109,6 @@ Below is a list of successfully completed projects that showcase my experience a
 
 7. **[Junior-Support]** - I trained less experienced programmers and took them under my wing. They performed tasks under my supervision and had their **code reviewed**.
 
+8. **[Agile]** - I have worked extensively with the **Agile** methodology, which I find excellent. I have participated in meetings such as: **Retrospective**, **Brainstorming and Estimation**, **Backlog Refinement**, **Daily**, Statuses****, **AMS**, Coffee Talks, and others. I have delivered software iteratively in the form of sprints.
+
 ---
