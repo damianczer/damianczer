@@ -72,6 +72,17 @@ Below is a list of successfully completed projects that showcase my experience a
 
 6. **[IIS Rewrite Rules]** - I worked on the **IIS server** module responsible for page redirections. IIS itself has this feature, but my solution was designed for **CMS**. The Content Editor could configure redirects using **.csv** files. (e.g., we disable the old subpage, but users may then receive a **404** error - we redirect from the old page to the new URL. The customer will not receive an error and will see the appropriate content).
 
+7. **[Octopus Deplyment Process]** - I built a proprietary software deployment process in **Octopus Deployment (CD)**. The whole thing was based on **PowerShell** scripts. The process used a **NuGet** package to install the application on the client server. It included an option for a full reinstallation of **CMS**, **Identity Server**, and **prerequisites**.
+
+8. **[IIS Verbs & Proxy]** - I remotely configured and implemented additional features necessary for the application to function using **PowerShell**. The script enabled secure **verbs** such as **DELETE**, set up a **proxy** so that the site could be used externally, and much more.
+
+9. **[CMS Expansion]** - I added **custom features** to the **CMS** platform by modifying the **GUI** and interfering with the **CORE database**. The **CMS** gained new content management capabilities, e.g., a button in the navigation bar with an additional option and mechanism.
+
+10. **[IT Administrator]** - I often helped as an **administrator** with various issues related to the application. From server configuration to implementation and modification of additional software.
+
+11. **[Security Raport]** - I analyzed security reports, e.g., **Qualys**, and implemented solutions to eliminate threats in the application.
+
+
 ---
 
 ### 📢 Project Management
@@ -87,5 +98,7 @@ Below is a list of successfully completed projects that showcase my experience a
 5. **[Documentation (Technical, Business Logic, User Guides)]** - I created **technical documentation** for features and wrote **business logic**, including **UML diagrams**. I built **User Guides** - instructions for customers on how to use/configure features.
 
 6. **[End-To-End]** - I often worked as a **Web Developer**. This meant that I took care of a given task **from start to finish**. From **gathering requirements** to **implementation** and **deployment** into **production**. Often, the actual work on the code was only **30%** of the job—the rest was the entire process of developing and delivering software on time and with the right quality.
+
+7. **[Junior-Support]** - I trained less experienced programmers and took them under my wing. They performed tasks under my supervision and had their **code reviewed**.
 
 ---
