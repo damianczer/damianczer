@@ -90,6 +90,8 @@ Below is a list of successfully completed projects that showcase my experience a
 
 15. **[TDS]** - I created projects using **Team Development for Sitecore**. I also managed items using a **GUI** plugin for **Visual Studio**.
 
+16. **[Migration TDS > SCS & SVS]** - I migrated projects based on **TDS classes** to **Sitecore Serialization**. The task involved creating **modules**, **generating items**, and manually **building models** with **Sitecore** field mapping. It was necessary to resolve name conflicts and significantly refactor the code.
+
 
 ---
 
@@ -110,5 +112,7 @@ Below is a list of successfully completed projects that showcase my experience a
 7. **[Junior-Support]** - I trained less experienced programmers and took them under my wing. They performed tasks under my supervision and had their **code reviewed**.
 
 8. **[Agile]** - I have worked extensively with the **Agile** methodology, which I find excellent. I have participated in meetings such as: **Retrospective**, **Brainstorming and Estimation**, **Backlog Refinement**, **Daily**, Statuses****, **AMS**, Coffee Talks, and others. I have delivered software iteratively in the form of sprints.
+
+9. **[Team Code Review]** - I led team workshops for developers where I demonstrated and explained various technical solutions in code. The workshops included presentations and group tasks.
 
 ---
