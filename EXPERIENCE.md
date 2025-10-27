@@ -51,10 +51,7 @@ Below is a list of successfully completed projects that showcase my experience a
 
 ### ⚙️ Backend
 
-<!-- Example:
-- **API Service** – REST API built with Node.js and Express
-- **E-commerce Platform** – Backend built with Django and PostgreSQL
--->
+1. **[.NET Framework]** - I have built **desktop** and web **applications**. I have been working with **.NET** since 2018, both commercially and privately, and have already completed many projects.
 
 ---
 
