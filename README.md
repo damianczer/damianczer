@@ -83,13 +83,11 @@
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damianczer&layout=compact&theme=dark"/>
  </p>
-
-<p align="center" style="font-weight: bold;">Visits:</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=damianczer&color=brightgreen&style=for-the-badge&+Profile+Views" />
 </p>
 
-<p align="center" style="font-weight: bold;">Support Me:</p>
+<p align="center" style="font-weight: bold;">Do you like my work? 💝 You can support me:</p>
 <p align="center">
 <a href="https://www.buymeacoffee.com/damianczer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
