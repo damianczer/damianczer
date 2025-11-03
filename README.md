@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?width=1200&&size=38&center=true&vCenter=true&lines=Hi👋,+I'm+Damian+Czerwiński!;)](https://git.io/typing-svg)
 <h2 align="center">Fullstack & Frontend & React Developer | 4+ Years</h2>
-
+ 
 <p align="center">
    What projects have I completed? 👉 <a href="https://github.com/damianczer/damianczer/blob/main/EXPERIENCE.md">commercial projects & experience</a>
 </p>
