@@ -4,7 +4,7 @@
 <p align="center">
    What projects have I completed? 👉 <a href="https://github.com/damianczer/damianczer/blob/main/EXPERIENCE.md">commercial projects & experience</a>
 </p>
-
+ 
 ###
 
 <h3 align="left">👩‍💻  About Me:</h3>
