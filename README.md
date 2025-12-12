@@ -2,15 +2,15 @@
  
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3AAFFF,100:0047AB&height=200&section=header&text=Damian%20Czerwiński&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&width=2000" />
 
-<br>
+<br><br>
   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&duration=3000&pause=999999&color=58A6FF&center=true&vCenter=true&width=450&lines=Web+Developer" />
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=60&lines=5%2B+Years+of+Development;9%2B+Years+in+IT" alt="Typing SVG" />
 
-<br>
+<br><br>
 
 <p style="color: white; font-size: 18px; margin-bottom: 20px;">Everything about me here:</p>
 
