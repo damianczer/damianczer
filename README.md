@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3AAFFF,100:0047AB&height=200&section=header&text=Damian%20Czerwiński&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&width=2000" />
   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&duration=3000&pause=999999&color=58A6FF&center=true&vCenter=true&width=450&lines=Web+Developer" />
