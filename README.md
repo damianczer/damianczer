@@ -10,7 +10,7 @@
 
 <br><br>
 
-<p style="color: white; font-size: 18px; margin-bottom: 20px;">Everything about me here:</p>
+Everything about me here:
 
 <a href="https://www.damianczerwinski.pl/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=VISIT%20MY%20PORTFOLIO&label=&color=2563EB&logoColor=white&labelColor=&style=for-the-badge" style="height: 40px !important;" alt="Portfolio Button"/>
@@ -28,6 +28,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damianczer&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8" alt="Top Languages" />
 
+<br><br>
+
+If you cannot see my statistics, it means that the Github API is overloaded.
+<br>
+Unfortunately, this is a global limitation.
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=damianczer&label=Profile%20Views&color=0e75b6&style=for-the-badge" style="height: 40px !important;" alt="Profile Views" />
