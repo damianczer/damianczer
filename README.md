@@ -18,15 +18,15 @@ Everything about me here:
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=damianczer&theme=react&hide_border=true&background=0D1117" />
+![GitHub Streak](https://streak-stats.demolab.com?user=damianczer&theme=react&hide_border=true&background=0D1117)
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=damianczer&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damianczer&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=1800)
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damianczer&layout=compact&theme=react&hide_border=true&bg_color=0D1117&langs_count=8&cache_seconds=1800" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=damianczer&layout=compact&theme=react&hide_border=true&bg_color=0D1117&langs_count=8&cache_seconds=1800)
 
 <br><br>
 
