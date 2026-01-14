@@ -22,7 +22,7 @@ Everything about me here:
 
 <br>
 
-![Total Commits](https://github-readme-stats-one-bice.vercel.app/api?username=damianczer&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_border=true)
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=damianczer&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_border=true)
 
 <br>
 
