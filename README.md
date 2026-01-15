@@ -18,11 +18,11 @@ Everything about me here:
 
 <br><br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=damianczer&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=damianczer&background=0D1117&ring=58A6FF&fire=FF9557&currStreakLabel=E6EDF3&sideLabels=C9D1D9&sideNums=FCFCFC&dates=8B949E&hide_border=true)
 
 <br>
 
-![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=damianczer&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_border=true)
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=damianczer&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FCFCFC&hide_border=true)
 
 <br>
 
