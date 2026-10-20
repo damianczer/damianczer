@@ -4,11 +4,11 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&duration=3000&pause=999999&color=58A6FF&center=true&vCenter=true&width=450&lines=Web+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&duration=3000&pause=999999&color=58A6FF&center=true&vCenter=true&width=450&height=80&lines=Web+Developer" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=60&lines=5%2B+Years+of+Development;9%2B+Years+in+IT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=60&lines=6%2B+Years+of+Development;10%2B+Years+in+IT" alt="Typing SVG" />
 
 <br><br>
 
@@ -20,7 +20,7 @@ Everything about me here:
 
 <br><br>
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=damianczer&background=0D1117&ring=58A6FF&fire=FF9557&currStreakLabel=E6EDF3&sideLabels=C9D1D9&sideNums=FCFCFC&dates=8B949E&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=damianczer&background=0D1117&ring=58A6FF&fire=FF9557&currStreakNum=FCFCFC&currStreakLabel=E6EDF3&sideLabels=C9D1D9&sideNums=FCFCFC&dates=8B949E&hide_border=true)
 
 <br>
 
@@ -30,7 +30,11 @@ Everything about me here:
 
 ![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=damianczer&layout=compact&langs_count=12&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true)
 
-<br><br>
+<br>
+
+🔒 <em>Most of my work lives in private repositories - these stats show only the tip of the iceberg.</em>
+
+<br>
 
 If you cannot see my statistics, it means that the Github API is overloaded.
 <br>
@@ -41,7 +45,7 @@ Unfortunately, this is a global limitation.
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=damianczer&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph-eta.vercel.app/graph?username=damianczer&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
 
 <br>
 
