@@ -32,9 +32,9 @@ Everything about me here:
 
 <br>
 
-🔒 <em>Most of my work lives in private repositories — these stats show only the tip of the iceberg.</em>
+🔒 <em>Most of my work lives in private repositories - these stats show only the tip of the iceberg.</em>
 
-<br><br>
+<br>
 
 If you cannot see my statistics, it means that the Github API is overloaded.
 <br>
