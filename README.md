@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=60&lines=6%2B+Years+of+Development;10%2B+Years+in+IT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=60&lines=6%2B+Years+of+Development;10%2B+Years+in+IT;2%2B+Years+in+Marketing" alt="Typing SVG" />
 
 <br><br>
 
@@ -32,9 +32,9 @@ Everything about me here:
 
 <br>
 
-🔒 <em>Most of my work lives in private repositories - these stats show only the tip of the iceberg.</em>
+🔒 <em>Most of my work lives in private repositories — these stats show only the tip of the iceberg.</em>
 
-<br>
+<br><br>
 
 If you cannot see my statistics, it means that the Github API is overloaded.
 <br>
